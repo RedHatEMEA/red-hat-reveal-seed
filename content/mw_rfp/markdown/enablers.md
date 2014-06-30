@@ -43,19 +43,19 @@
 
 --
 
-![JBoss Portfolio](img/enablers-fuse_components.png) <!-- .element: fullscreen-size="contain" -->
+![JBoss Portfolio](/content/fuse61/img/fuse-components.png) <!-- .element: fullscreen-size="contain" -->
 
 --
 
-![JBoss Portfolio](img/enablers-fuse_eip_book.png) <!-- .element: fullscreen-size="contain" -->
+![JBoss Portfolio](/content/fuse61/img/eip-book.png) <!-- .element: fullscreen-size="contain" -->
 
 --
 
-![JBoss Portfolio](img/enablers-fuse_patterns.png) <!-- .element: fullscreen-size="contain" -->
+![JBoss Portfolio](/content/fuse61/img/patterns.png) <!-- .element: fullscreen-size="contain" -->
 
 --
 
-![JBoss Portfolio](img/enablers-fuse_connectors.png) <!-- .element: fullscreen-size="contain" -->
+![JBoss Portfolio](/content/fuse61/img/components.png) <!-- .element: fullscreen-size="contain" -->
 
 --
 
